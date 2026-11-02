@@ -1,0 +1,45 @@
+{
+  "name": "osemoji",
+  "displayName": "Osemoji",
+  "description": "Emoji file icons and interface icons for VS Code, drawn with your computer's own emoji.",
+  "version": "1.0.0",
+  "publisher": "oseughu",
+  "author": "Osemudiamhen Ughu",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oseughu/osemoji.git"
+  },
+  "icon": "media/icon.png",
+  "galleryBanner": {
+    "color": "#23282f",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.64.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "emoji",
+    "icons",
+    "icon theme",
+    "product icon theme"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "osemoji-file-icons",
+        "label": "Osemoji File Icons",
+        "path": "./file-icons/osemoji-file-icons.json"
+      }
+    ],
+    "productIconThemes": [
+      {
+        "id": "osemoji-product-icons",
+        "label": "Osemoji Product Icons",
+        "path": "./product-icons/osemoji-product-icons.json"
+      }
+    ]
+  }
+}

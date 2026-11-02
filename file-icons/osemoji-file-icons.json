@@ -1,0 +1,496 @@
+{
+  "showLanguageModeIcons": true,
+  "file": "📄",
+  "folder": "📁",
+  "folderExpanded": "📂",
+  "fileExtensions": {
+    "txt": "📝",
+    "sh": "🐚",
+    "bash": "🐚",
+    "py": "🐍",
+    "java": "☕",
+    "class": "🔠",
+    "jar": "🍯",
+    "c": "🏎️",
+    "cpp": "🏎️",
+    "h": "🤠",
+    "hpp": "🤠",
+    "cs": "✨",
+    "csproj": "📦",
+    "swift": "🦩",
+    "rb": "💎",
+    "rs": "🦀",
+    "ts": "📘",
+    "js": "📒",
+    "tsx": "⚛️",
+    "jsx": "⚛️",
+    "styles.ts": "💅",
+    "css": "💅",
+    "scss": "💅",
+    "html": "🌏",
+    "db": "🛢️",
+    "sqlite": "🛢️",
+    "sqlite3": "🛢️",
+    "mysql": "🛢️",
+    "sql": "🛢️",
+    "cookie": "🍪",
+    "json": "🗃️",
+    "md": "📚",
+    "zip": "🤐",
+    "yml": "🚀",
+    "yaml": "🚀",
+    "env": "⚙️",
+    "cfg": "⚙️",
+    "config": "⚙️",
+    "ini": "⚙️",
+    "iso": "💿",
+    "log": "📋",
+    "map": "🗺️",
+    "lock": "🔒",
+    "stats": "📊",
+    "todo": "☑️",
+    "png": "🏞️",
+    "jpg": "🏞️",
+    "jpeg": "🏞️",
+    "gif": "💃",
+    "heif": "📷",
+    "svg": "🎨",
+    "mp4": "🎞️",
+    "mov": "🎞️",
+    "mp3": "🔈",
+    "wav": "🔈"
+  },
+  "fileNames": {
+    ".gitignore": "🤷‍♀️",
+    "README.md": "📰",
+    "README": "📰",
+    "CHANGELOG.md": "🗓️",
+    "CHANGELOG": "🗓️",
+    "LICENSE.md": "👩‍⚖️",
+    "LICENSE": "👩‍⚖️",
+    "ideas.md": "💡",
+    "ideas.txt": "💡",
+    "ideas": "💡",
+    "todo.md": "☑️",
+    "todo.txt": "☑️",
+    "todo": "☑️",
+    "package.json": "📦",
+    "Cargo.toml": "📦",
+    "package-lock.json": "🔒",
+    ".npmrc": "⚙️",
+    ".npmignore": "🤷‍♀️",
+    "tsconfig.json": "⚙️",
+    "jest.config.ts": "🃏",
+    "playwright.config.ts": "🎭",
+    ".vscode/settings.json": "⚙️",
+    ".vscode/launch.json": "🚀",
+    ".vscode/tasks.json": "☑️",
+    "config.json": "⚙️",
+    "favicon.ico": "🌠",
+    "robots.txt": "🤖",
+    "DOCKERFILE": "🐳",
+    ".dockerignore": "🐳",
+    ".editorconfig": "🐭",
+    ".env.test": "👩‍🔬",
+    ".env.development": "👷‍♂️",
+    ".env.production": "👨‍🚀",
+    ".env.NZ": "🇳🇿",
+    ".env.AU": "🇦🇺",
+    ".env.CN": "🇨🇳",
+    ".env.US": "🇺🇸",
+    ".env.CA": "🇨🇦",
+    ".env.UK": "🇬🇧",
+    ".env.DE": "🇩🇪",
+    ".env.FR": "🇫🇷",
+    ".env.IE": "🇮🇪"
+  },
+  "folderNames": {
+    ".git": "🌿",
+    ".github": "🧑‍💻",
+    ".github/workflows": "🚀",
+    ".vscode": "⚙️",
+    ".devcontainer": "🏗️",
+    "node_modules": "📦",
+    "temp": "⛺",
+    "config": "⚙️",
+    "setting": "⚙️",
+    "settings": "⚙️",
+    "images": "🌠",
+    "thumbnails": "🌠",
+    "test": "🧪",
+    "tests": "🧪",
+    "build": "🔨",
+    "public": "🌏",
+    "home": "🏠",
+    "src": "🚰",
+    "assets": "🏛️",
+    "components": "🧱",
+    "types": "🔠",
+    "util": "🛠️",
+    "utils": "🛠️",
+    "utility": "🛠️",
+    "utilities": "🛠️",
+    "view": "👀",
+    "views": "👀",
+    "authenticated": "🔓",
+    "unauthenticated": "🔒",
+    "authentication": "🔐",
+    "auth": "🔐",
+    "hook": "🎣",
+    "hooks": "🎣",
+    "data": "🗄️"
+  },
+  "folderNamesExpanded": {
+    ".git": "🌿",
+    ".github": "🧑‍💻",
+    ".github/workflows": "🚀",
+    ".vscode": "⚙️",
+    "node_modules": "📦",
+    "temp": "⛺",
+    "config": "⚙️",
+    "setting": "⚙️",
+    "settings": "⚙️",
+    "images": "🌠",
+    "thumbnails": "🌠",
+    "test": "🧪",
+    "tests": "🧪",
+    "build": "🔨",
+    "public": "🌏",
+    "home": "🏠",
+    "src": "🚰",
+    "assets": "🏛️",
+    "components": "🧱",
+    "types": "🔠",
+    "util": "🛠️",
+    "utils": "🛠️",
+    "utility": "🛠️",
+    "utilities": "🛠️",
+    "view": "👀",
+    "views": "👀",
+    "authenticated": "🔓",
+    "unauthenticated": "🔒",
+    "authentication": "🔐",
+    "auth": "🔐",
+    "hook": "🎣",
+    "hooks": "🎣",
+    "data": "🗄️"
+  },
+  "iconDefinitions": {
+    "☑️": {
+      "fontCharacter": "☑️",
+      "fontSize": "125%"
+    },
+    "☕": {
+      "fontCharacter": "☕",
+      "fontSize": "125%"
+    },
+    "⚙️": {
+      "fontCharacter": "⚙️",
+      "fontSize": "125%"
+    },
+    "⚛️": {
+      "fontCharacter": "⚛️",
+      "fontSize": "125%"
+    },
+    "⛺": {
+      "fontCharacter": "⛺",
+      "fontSize": "125%"
+    },
+    "✨": {
+      "fontCharacter": "✨",
+      "fontSize": "125%"
+    },
+    "🃏": {
+      "fontCharacter": "🃏",
+      "fontSize": "125%"
+    },
+    "🇦🇺": {
+      "fontCharacter": "🇦🇺",
+      "fontSize": "125%"
+    },
+    "🇨🇦": {
+      "fontCharacter": "🇨🇦",
+      "fontSize": "125%"
+    },
+    "🇨🇳": {
+      "fontCharacter": "🇨🇳",
+      "fontSize": "125%"
+    },
+    "🇩🇪": {
+      "fontCharacter": "🇩🇪",
+      "fontSize": "125%"
+    },
+    "🇫🇷": {
+      "fontCharacter": "🇫🇷",
+      "fontSize": "125%"
+    },
+    "🇬🇧": {
+      "fontCharacter": "🇬🇧",
+      "fontSize": "125%"
+    },
+    "🇮🇪": {
+      "fontCharacter": "🇮🇪",
+      "fontSize": "125%"
+    },
+    "🇳🇿": {
+      "fontCharacter": "🇳🇿",
+      "fontSize": "125%"
+    },
+    "🇺🇸": {
+      "fontCharacter": "🇺🇸",
+      "fontSize": "125%"
+    },
+    "🌏": {
+      "fontCharacter": "🌏",
+      "fontSize": "125%"
+    },
+    "🌠": {
+      "fontCharacter": "🌠",
+      "fontSize": "125%"
+    },
+    "🌿": {
+      "fontCharacter": "🌿",
+      "fontSize": "125%"
+    },
+    "🍪": {
+      "fontCharacter": "🍪",
+      "fontSize": "125%"
+    },
+    "🍯": {
+      "fontCharacter": "🍯",
+      "fontSize": "125%"
+    },
+    "🎞️": {
+      "fontCharacter": "🎞️",
+      "fontSize": "125%"
+    },
+    "🎣": {
+      "fontCharacter": "🎣",
+      "fontSize": "125%"
+    },
+    "🎨": {
+      "fontCharacter": "🎨",
+      "fontSize": "125%"
+    },
+    "🎭": {
+      "fontCharacter": "🎭",
+      "fontSize": "125%"
+    },
+    "🏎️": {
+      "fontCharacter": "🏎️",
+      "fontSize": "125%"
+    },
+    "🏗️": {
+      "fontCharacter": "🏗️",
+      "fontSize": "125%"
+    },
+    "🏛️": {
+      "fontCharacter": "🏛️",
+      "fontSize": "125%"
+    },
+    "🏞️": {
+      "fontCharacter": "🏞️",
+      "fontSize": "125%"
+    },
+    "🏠": {
+      "fontCharacter": "🏠",
+      "fontSize": "125%"
+    },
+    "🐍": {
+      "fontCharacter": "🐍",
+      "fontSize": "125%"
+    },
+    "🐚": {
+      "fontCharacter": "🐚",
+      "fontSize": "125%"
+    },
+    "🐭": {
+      "fontCharacter": "🐭",
+      "fontSize": "125%"
+    },
+    "🐳": {
+      "fontCharacter": "🐳",
+      "fontSize": "125%"
+    },
+    "👀": {
+      "fontCharacter": "👀",
+      "fontSize": "125%"
+    },
+    "👨‍🚀": {
+      "fontCharacter": "👨‍🚀",
+      "fontSize": "125%"
+    },
+    "👩‍⚖️": {
+      "fontCharacter": "👩‍⚖️",
+      "fontSize": "125%"
+    },
+    "👩‍🔬": {
+      "fontCharacter": "👩‍🔬",
+      "fontSize": "125%"
+    },
+    "👷‍♂️": {
+      "fontCharacter": "👷‍♂️",
+      "fontSize": "125%"
+    },
+    "💃": {
+      "fontCharacter": "💃",
+      "fontSize": "125%"
+    },
+    "💅": {
+      "fontCharacter": "💅",
+      "fontSize": "125%"
+    },
+    "💎": {
+      "fontCharacter": "💎",
+      "fontSize": "125%"
+    },
+    "💡": {
+      "fontCharacter": "💡",
+      "fontSize": "125%"
+    },
+    "💿": {
+      "fontCharacter": "💿",
+      "fontSize": "125%"
+    },
+    "📁": {
+      "fontCharacter": "📁",
+      "fontSize": "125%"
+    },
+    "📂": {
+      "fontCharacter": "📂",
+      "fontSize": "125%"
+    },
+    "📄": {
+      "fontCharacter": "📄",
+      "fontSize": "125%"
+    },
+    "📊": {
+      "fontCharacter": "📊",
+      "fontSize": "125%"
+    },
+    "📋": {
+      "fontCharacter": "📋",
+      "fontSize": "125%"
+    },
+    "📒": {
+      "fontCharacter": "📒",
+      "fontSize": "125%"
+    },
+    "📘": {
+      "fontCharacter": "📘",
+      "fontSize": "125%"
+    },
+    "📚": {
+      "fontCharacter": "📚",
+      "fontSize": "125%"
+    },
+    "📝": {
+      "fontCharacter": "📝",
+      "fontSize": "125%"
+    },
+    "📦": {
+      "fontCharacter": "📦",
+      "fontSize": "125%"
+    },
+    "📰": {
+      "fontCharacter": "📰",
+      "fontSize": "125%"
+    },
+    "📷": {
+      "fontCharacter": "📷",
+      "fontSize": "125%"
+    },
+    "🔈": {
+      "fontCharacter": "🔈",
+      "fontSize": "125%"
+    },
+    "🔐": {
+      "fontCharacter": "🔐",
+      "fontSize": "125%"
+    },
+    "🔒": {
+      "fontCharacter": "🔒",
+      "fontSize": "125%"
+    },
+    "🔓": {
+      "fontCharacter": "🔓",
+      "fontSize": "125%"
+    },
+    "🔠": {
+      "fontCharacter": "🔠",
+      "fontSize": "125%"
+    },
+    "🔨": {
+      "fontCharacter": "🔨",
+      "fontSize": "125%"
+    },
+    "🗃️": {
+      "fontCharacter": "🗃️",
+      "fontSize": "125%"
+    },
+    "🗄️": {
+      "fontCharacter": "🗄️",
+      "fontSize": "125%"
+    },
+    "🗓️": {
+      "fontCharacter": "🗓️",
+      "fontSize": "125%"
+    },
+    "🗺️": {
+      "fontCharacter": "🗺️",
+      "fontSize": "125%"
+    },
+    "🚀": {
+      "fontCharacter": "🚀",
+      "fontSize": "125%"
+    },
+    "🚰": {
+      "fontCharacter": "🚰",
+      "fontSize": "125%"
+    },
+    "🛠️": {
+      "fontCharacter": "🛠️",
+      "fontSize": "125%"
+    },
+    "🛢️": {
+      "fontCharacter": "🛢️",
+      "fontSize": "125%"
+    },
+    "🤐": {
+      "fontCharacter": "🤐",
+      "fontSize": "125%"
+    },
+    "🤖": {
+      "fontCharacter": "🤖",
+      "fontSize": "125%"
+    },
+    "🤠": {
+      "fontCharacter": "🤠",
+      "fontSize": "125%"
+    },
+    "🤷‍♀️": {
+      "fontCharacter": "🤷‍♀️",
+      "fontSize": "125%"
+    },
+    "🦀": {
+      "fontCharacter": "🦀",
+      "fontSize": "125%"
+    },
+    "🦩": {
+      "fontCharacter": "🦩",
+      "fontSize": "125%"
+    },
+    "🧑‍💻": {
+      "fontCharacter": "🧑‍💻",
+      "fontSize": "125%"
+    },
+    "🧪": {
+      "fontCharacter": "🧪",
+      "fontSize": "125%"
+    },
+    "🧱": {
+      "fontCharacter": "🧱",
+      "fontSize": "125%"
+    }
+  }
+}

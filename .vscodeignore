@@ -1,0 +1,7 @@
+docs/**
+scripts/**
+.github/**
+.vscode/**
+.gitignore
+DEVELOPING.md
+**/*.vsix
