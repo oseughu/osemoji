@@ -104,10 +104,10 @@
       "fontCharacter": "⚙️"
     },
     "lock": {
-      "fontCharacter": "🔒"
+      "fontCharacter": "\ue000🔒"
     },
     "unlock": {
-      "fontCharacter": "🔓"
+      "fontCharacter": "\ue000🔓"
     },
     "book": {
       "fontCharacter": "📖"

@@ -8,6 +8,8 @@ vsce package --no-dependencies
 
 `fonts/osemoji-base.ttf` is an empty font. VS Code requires interface icon themes to name a font, and its metrics set where the icons sit vertically. The emoji themselves come from the operating system. `scripts/make_base_font.py` rebuilds it and needs `fonttools`.
 
+`lock` and `unlock` start with `U+E000`, an empty glyph in that font that moves the emoji after it 2px left at 16px. On 1× displays Apple's emoji are 20px wide at that size, not 16px, and VS Code's toolbars left-align them in a 16px box, so they sit 2px too far right. A theme can't tell 1× from Retina, so the nudge centres them on 1× displays and leaves them 2px left of centre on Retina. `make_base_font.py --nudge` sets the distance.
+
 `docs/smaller-icons.css` shrinks the interface icons on machines that load custom CSS. It isn't part of the extension, and it lists icon IDs, so update it if you add any.
 
 ## Releasing
