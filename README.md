@@ -14,5 +14,5 @@ Emoji file icons and interface icons for VS Code. Osemoji draws them with your c
 
 ## Credits
 
-- Forked from [vscode-emoji-icons](https://github.com/mightbesimon/vscode-emoji-icons) by mightbesimon, by way of [lineville's fork](https://github.com/lineville/vscode-emoji-icons), and published with permission from both.
+- Forked from [vscode-emoji-icons](https://github.com/mightbesimon/vscode-emoji-icons) by mightbesimon, by way of [lineville's fork](https://github.com/lineville/vscode-emoji-icons)
 - The Marketplace icon comes from [Fluent Emoji](https://github.com/microsoft/fluentui-emoji) by Microsoft. See `THIRD-PARTY-NOTICES.md`.
